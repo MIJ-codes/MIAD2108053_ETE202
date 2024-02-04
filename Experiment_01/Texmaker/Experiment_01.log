@@ -1,0 +1,444 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2024.1.9)  16 JAN 2024 21:11
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./Experiment_01.tex
+(Experiment_01.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+
+(C:\Users\miadu\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\extarticle.cls
+Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
+(C:\Users\miadu\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+(C:\Users\miadu\AppData\Local\Programs\MiKTeX\tex/latex/base\exscale.sty
+Package: exscale 2018/09/24 v2.1i Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen140
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen141
+)
+(C:\Users\miadu\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(C:\Users\miadu\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\miadu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(C:\Users\miadu\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\miadu\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks20
+
+(C:\Users\miadu\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\miadu\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip50
+\f@nch@O@elh=\skip51
+\f@nch@O@erh=\skip52
+\f@nch@O@olh=\skip53
+\f@nch@O@orh=\skip54
+\f@nch@O@elf=\skip55
+\f@nch@O@erf=\skip56
+\f@nch@O@olf=\skip57
+\f@nch@O@orf=\skip58
+)
+(C:\Users\miadu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\miadu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\miadu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\miadu\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\miadu\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+) (C:\Users\miadu\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+(C:\Users\miadu\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen152
+\captionmargin=\dimen153
+\caption@leftmargin=\dimen154
+\caption@rightmargin=\dimen155
+\caption@width=\dimen156
+\caption@indent=\dimen157
+\caption@parindent=\dimen158
+\caption@hangindent=\dimen159
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count196
+\c@continuedfloat=\count197
+)
+(C:\Users\miadu\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count198
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count199
+) (C:\Users\miadu\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count266
+\float@exts=\toks21
+\float@box=\box51
+\@float@everytoks=\toks22
+\@floatcapt=\box52
+)
+(C:\Users\miadu\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen160
+\lightrulewidth=\dimen161
+\cmidrulewidth=\dimen162
+\belowrulesep=\dimen163
+\belowbottomsep=\dimen164
+\aboverulesep=\dimen165
+\abovetopsep=\dimen166
+\cmidrulesep=\dimen167
+\cmidrulekern=\dimen168
+\defaultaddspace=\dimen169
+\@cmidla=\count267
+\@cmidlb=\count268
+\@aboverulesep=\dimen170
+\@belowrulesep=\dimen171
+\@thisruleclass=\count269
+\@lastruleclass=\count270
+\@thisrulewidth=\dimen172
+)
+(C:\Users\miadu\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count271
+\l__pdf_internal_box=\box53
+) (Experiment_01.aux)
+\openout1 = `Experiment_01.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includefoot 
+* h-part:(L,W,R)=(108.405pt, 402.3791pt, 86.72377pt)
+* v-part:(T,H,B)=(86.72377pt, 671.5993pt, 86.72377pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=402.3791pt
+* \textheight=641.5993pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-19.54622pt
+* \headheight=14.0pt
+* \headsep=20.0pt
+* \topskip=14.0pt
+* \footskip=30.0pt
+* \marginparwidth=15.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\miadu\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count272
+\scratchdimen=\dimen173
+\scratchbox=\box54
+\nofMPsegments=\count273
+\nofMParguments=\count274
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count275
+\MPscratchDim=\dimen174
+\MPnumerator=\count276
+\makeMPintoPDFobject=\count277
+\everyMPtoPDFconversion=\toks24
+)
+(C:\Users\miadu\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\miadu\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 17.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
+
+[1{C:/Users/miadu/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+]
+<2N3904pinout.png, id=8, 572.73975pt x 343.88475pt>
+File: 2N3904pinout.png Graphic file (type png)
+<use 2N3904pinout.png>
+Package pdftex.def Info: 2N3904pinout.png  used on input line 48.
+(pdftex.def)             Requested size: 160.94283pt x 101.1775pt.
+
+Underfull \hbox (badness 3646) in paragraph at lines 49--49
+[]\OT1/cmr/m/n/12 (a) |2N3904 n-p-n tran-sis-tor
+ []
+
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <7> on input line 51.
+<2N3904.png, id=10, 104.3097pt x 138.9993pt>
+File: 2N3904.png Graphic file (type png)
+<use 2N3904.png>
+Package pdftex.def Info: 2N3904.png  used on input line 55.
+(pdftex.def)             Requested size: 112.6687pt x 101.1823pt.
+<2N3906pinout.png, id=11, 130.5678pt x 110.814pt>
+File: 2N3906pinout.png Graphic file (type png)
+<use 2N3906pinout.png>
+Package pdftex.def Info: 2N3906pinout.png  used on input line 61.
+(pdftex.def)             Requested size: 160.95403pt x 137.31322pt.
+
+Underfull \hbox (badness 4024) in paragraph at lines 62--62
+[]\OT1/cmr/m/n/12 (c) |2N3906 p-n-p tran-sis-tor
+ []
+
+<2N3906.png, id=12, 925.056pt x 700.41675pt>
+File: 2N3906.png Graphic file (type png)
+<use 2N3906.png>
+Package pdftex.def Info: 2N3906.png  used on input line 67.
+(pdftex.def)             Requested size: 160.9415pt x 137.3128pt.
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 17.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
+
+[2 <./2N3904pinout.png> <./2N3904.png> <./2N3906pinout.png> <./2N3906.png>]
+<2N3904Volatage01.png, id=20, 579.16376pt x 434.62375pt>
+File: 2N3904Volatage01.png Graphic file (type png)
+<use 2N3904Volatage01.png>
+Package pdftex.def Info: 2N3904Volatage01.png  used on input line 87.
+(pdftex.def)             Requested size: 160.94519pt x 142.2657pt.
+<2N3904Volatage02.png, id=21, 434.62375pt x 579.16376pt>
+File: 2N3904Volatage02.png Graphic file (type png)
+<use 2N3904Volatage02.png>
+Package pdftex.def Info: 2N3904Volatage02.png  used on input line 94.
+(pdftex.def)             Requested size: 96.56586pt x 142.2631pt.
+<2N3906voltage01.png, id=22, 434.62375pt x 579.16376pt>
+File: 2N3906voltage01.png Graphic file (type png)
+<use 2N3906voltage01.png>
+Package pdftex.def Info: 2N3906voltage01.png  used on input line 101.
+(pdftex.def)             Requested size: 112.66129pt x 142.2631pt.
+<2N3906voltage02.png, id=23, 579.16376pt x 434.62375pt>
+File: 2N3906voltage02.png Graphic file (type png)
+<use 2N3906voltage02.png>
+Package pdftex.def Info: 2N3906voltage02.png  used on input line 107.
+(pdftex.def)             Requested size: 160.94519pt x 142.2657pt.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 17.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
+
+[3 <./2N3904Volatage01.png> <./2N3904Volatage02.png> <./2N3906voltage01.png> <.
+/2N3906voltage02.png>]
+<Resistor_color_codes.png, id=31, 803.0pt x 717.68124pt>
+File: Resistor_color_codes.png Graphic file (type png)
+<use Resistor_color_codes.png>
+Package pdftex.def Info: Resistor_color_codes.png  used on input line 127.
+(pdftex.def)             Requested size: 402.3791pt x 359.63916pt.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 17.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
+
+[4 <./Resistor_color_codes.png>]
+<120ohmbrownredbrown.png, id=36, 434.62375pt x 579.16376pt>
+File: 120ohmbrownredbrown.png Graphic file (type png)
+<use 120ohmbrownredbrown.png>
+Package pdftex.def Info: 120ohmbrownredbrown.png  used on input line 139.
+(pdftex.def)             Requested size: 120.71231pt x 113.80695pt.
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <6> on input line 140.
+<120ohmcodebrownredbrown.png, id=37, 546.24075pt x 345.08925pt>
+File: 120ohmcodebrownredbrown.png Graphic file (type png)
+<use 120ohmcodebrownredbrown.png>
+Package pdftex.def Info: 120ohmcodebrownredbrown.png  used on input line 146.
+(pdftex.def)             Requested size: 120.7151pt x 113.81134pt.
+<120ohmtestbrownredbrown.png, id=38, 434.62375pt x 579.16376pt>
+File: 120ohmtestbrownredbrown.png Graphic file (type png)
+<use 120ohmtestbrownredbrown.png>
+Package pdftex.def Info: 120ohmtestbrownredbrown.png  used on input line 153.
+(pdftex.def)             Requested size: 84.49596pt x 113.80695pt.
+<470ohmyellowvioletbrown.png, id=39, 215.6055pt x 208.98074pt>
+File: 470ohmyellowvioletbrown.png Graphic file (type png)
+<use 470ohmyellowvioletbrown.png>
+Package pdftex.def Info: 470ohmyellowvioletbrown.png  used on input line 168.
+(pdftex.def)             Requested size: 120.71521pt x 113.81093pt.
+<470ohmcodeyellowvioletbrown.png, id=40, 557.08125pt x 342.078pt>
+File: 470ohmcodeyellowvioletbrown.png Graphic file (type png)
+<use 470ohmcodeyellowvioletbrown.png>
+Package pdftex.def Info: 470ohmcodeyellowvioletbrown.png  used on input line 17
+5.
+(pdftex.def)             Requested size: 120.71367pt x 113.80997pt.
+<470ohmtestyellowvioletbrown.png, id=41, 260.77425pt x 347.49825pt>
+File: 470ohmtestyellowvioletbrown.png Graphic file (type png)
+<use 470ohmtestyellowvioletbrown.png>
+Package pdftex.def Info: 470ohmtestyellowvioletbrown.png  used on input line 18
+2.
+(pdftex.def)             Requested size: 84.49994pt x 113.81047pt.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 17.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
+
+[5 <./120ohmbrownredbrown.png> <./120ohmcodebrownredbrown.png> <./120ohmtestbro
+wnredbrown.png> <./470ohmyellowvioletbrown.png> <./470ohmcodeyellowvioletbrown.
+png> <./470ohmtestyellowvioletbrown.png>]
+<560ohmgreenbluebrown.png, id=51, 434.62375pt x 579.16376pt>
+File: 560ohmgreenbluebrown.png Graphic file (type png)
+<use 560ohmgreenbluebrown.png>
+Package pdftex.def Info: 560ohmgreenbluebrown.png  used on input line 197.
+(pdftex.def)             Requested size: 120.71231pt x 113.80695pt.
+<560ohmcodegreenbluebrown.png, id=52, 540.21825pt x 342.68025pt>
+File: 560ohmcodegreenbluebrown.png Graphic file (type png)
+<use 560ohmcodegreenbluebrown.png>
+Package pdftex.def Info: 560ohmcodegreenbluebrown.png  used on input line 204.
+(pdftex.def)             Requested size: 120.7113pt x 113.81165pt.
+<560ohmtestgreenbluebrown.png, id=53, 434.62375pt x 579.16376pt>
+File: 560ohmtestgreenbluebrown.png Graphic file (type png)
+<use 560ohmtestgreenbluebrown.png>
+Package pdftex.def Info: 560ohmtestgreenbluebrown.png  used on input line 211.
+(pdftex.def)             Requested size: 84.49596pt x 113.80695pt.
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 17.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
+
+[6 <./560ohmgreenbluebrown.png> <./560ohmcodegreenbluebrown.png> <./560ohmtestg
+reenbluebrown.png>]
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 17.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
+
+[7] (Experiment_01.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+ ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3880 strings out of 475248
+ 71334 string characters out of 5757814
+ 1924785 words of memory out of 5000000
+ 25399 multiletter control sequences out of 15000+600000
+ 564169 words of font info for 57 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,11n,65p,346b,533s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\miadu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1440.pk><C:/Users/miadu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmbx12.pfb><C:/Users/miadu/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmr12.pfb>
+Output written on Experiment_01.pdf (7 pages, 3398603 bytes).
+PDF statistics:
+ 78 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+

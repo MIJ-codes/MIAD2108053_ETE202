@@ -1,0 +1,12 @@
+*.lvw
+*.pdf
+*.docx
+*.jpg
+*.jpeg
+*.png
+*.pdsprj
+*.pdsbak
+*.pdsbad
+*.ms14
+*.workspace
+*xlsx
