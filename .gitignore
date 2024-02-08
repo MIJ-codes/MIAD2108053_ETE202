@@ -10,3 +10,8 @@
 *.ms14
 *.workspace
 *xlsx
+*aux
+*.fdb_latexmk
+*.log
+*.synctex.gz
+*.fls

@@ -1,0 +1,103 @@
+\documentclass[a4paper, 12pt]{extarticle}
+\usepackage[utf8]{inputenc}
+\usepackage[margin = 1.2in]{geometry}
+\usepackage{fancyhdr}
+
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{float}
+\usepackage{booktabs}
+\usepackage{gensymb}
+
+\pagestyle{fancy} % to change the page style and get that overline 
+\fancyhead[]{} % to delete the header over the overline
+\fancyfoot[]{} % to delelte the page number from the bottom of the page
+\fancyhead[R]{\thepage} % to put the page number in the right side of the overline.
+\geometry{headsep=20pt} % to make a gap of 20 pt between overline and the text
+
+\begin{document}
+
+\newgeometry{margin = 1.2in, left = 1.5in, bottom = 0cm}
+\section{Objective:}
+    \begin{itemize}
+        \item To observe the amplification of a multi stage amplifier
+\item To determine the voltage gain of the multi stage amplifier
+    \end{itemize}
+
+    
+\section{Apparatus:}
+
+      \begin{itemize}
+        \item Transistors
+        \item Resistors
+        \item Capacitors
+        \item Multi meter
+        \item Breadboard
+        \item Wires
+        \item DC power supply unit
+        \item Function generator
+      \end{itemize}
+    
+\section{Circuit diagram:}
+    \begin{figure}[!h]
+    \centering 
+    \includegraphics[width=1\linewidth]{Figures/Class A amplifier circuit.pdf} 
+\caption{Multistage Amplifier Circuits}  
+\end{figure} 
+\newpage
+
+
+\restoregeometry
+\newgeometry{margin = 1.2in, left = 1.5in, bottom = 0cm}
+\section{Result analysis:}
+A multi stage amplifier amplifies a signal in multiple stages. The input of the first stage is amplified and collected at the output terminal and that output becomes the input for the second stage. This is how a signal gets amplified in multiple stages. The overall voltage gain of the signal is going to be the multiplication of the voltage gain of each of these circuits.
+
+
+\subsection{Data table for a multistage amplifier:}
+\bgroup
+\def\arraystretch{1.2}
+\begin{table}[h]
+    \centering
+    \begin{tabular}{|c|c|c|c|c|}
+        \hline
+        \column{\textbf{}} & \column{\textbf{Theoretical Data}} & \column{\textbf{Simulated data}} & \column{\textbf{Practical data}} & \column{\textbf{Error analysis}}\\ \hline\hline
+        $V_{in}$ (mV) & 50 & 50 & 50 & 0 \\ \hline
+        $I_{in}$ ($\mu$A) & 19.2 & 19.2 & 15.2 & 20.83 \\ \hline
+        $V_{out}$ & 620 & 617 & 572 & 10.86 \\ \hline
+        $I_{out}$ & 61.81 & 61.7 & 65.7 & 6.48 \\ \hline
+        $A_{v}$ & 12.4 & 12.34 & 11.44 & 0.38 \\ \hline
+        $A_{i}$ & 3.22 & 3.21 & 4.32 & 34.58  \\ \hline
+        $A_{p}$ & 39.93 & 39.61 & 49.42 & 24.77 \\ \hline
+        
+    \end{tabular}
+\end{table}
+\egroup
+
+ Here, error analysis was done by comparing simulation and practical data. 
+
+\subsection{Multistage amplifier input and output signals:}
+
+\begin{figure}[!h]
+ \centering 
+  \begin{subfigure}{0.45\textwidth}
+    \centering 
+    \includegraphics[width=0.9\linewidth]{Figures/Class A amplifier oscilloscope.pdf} 
+    \caption{Simulated waveform} 
+  \end{subfigure}
+  \begin{subfigure}{0.45\textwidth}
+    \centering 
+    \includegraphics[width=0.9\linewidth]{Figures/Class A amplifier experiment.jpg} 
+    \caption{Experimental waveform} 
+  \end{subfigure} 
+\caption{Multistage amplifier waveform}  
+\end{figure} 
+
+Here, the simulated and experimental waveform ain't giving the exact same figure upon plotting the data found from experiment and simulation. Tolerance of the components and experimental environment might've had something to do with this
+\newpage
+
+\section{Discussion:}
+\begin{enumerate}
+ The experiment was conducted to observe the amplification of a signal in multiple stages.The theoretical, simulation and practical data were plotted on a table and their value didn't exactly match. The percentage of error was calculated upon comparing the simulated and practical data of various coefficients. The error could have been reduced if the experiment was done in a more controlled environment.
+\end{enumerate}
+\end{document}
